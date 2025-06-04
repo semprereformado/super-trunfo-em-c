@@ -13,7 +13,7 @@ Adicionalmente, os comandos Git mais utilizados estão postados aqui:
 - `git commit -m "mensagem"`: cria um ponto de salvamento com os arquivos que foram adicionados ao controle de versão com uma mensagem.
 - `git push`: (empurra) envia todas as modificações locais criadas pelo `git commit` ao repositório remoto.
 - `git push origin main`: (empurra) envia todas as modificações locais ao branch `main` do repositório remoto chamado `origin`.
-- `git pull origin main`: (puxa) recebe todas as modificações do repositório remoto e as replica no respositório local.
+- `git pull origin main`: (puxa) recebe todas as modificações do repositório remoto e as replica no repositório local.
 
 
 ## Como compilar e executar
