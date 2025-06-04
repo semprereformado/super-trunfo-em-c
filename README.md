@@ -15,7 +15,7 @@ Adicionalmente, os comandos Git mais utilizados estão postados aqui:
 - `git push origin main`: (empurra) envia todas as modificações locais ao branch `main` do repositório remoto chamado `origin`.
 - `git pull origin main`: (puxa) recebe todas as modificações do repositório remoto e as replica no repositório local.
 
-
+<!--
 ## Como compilar e executar
 
 Use o `gcc` (compilador C) no terminal:
@@ -23,3 +23,4 @@ Use o `gcc` (compilador C) no terminal:
 ```bash
 gcc olamundo.c -o olamundo
 ./olamundo
+-->
